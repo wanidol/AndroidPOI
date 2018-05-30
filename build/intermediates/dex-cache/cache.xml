@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_f84ab5b829a8386cf3f8ce039f08cef2f60e338d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\cd10fbfacebce342dfe1a357eac561c937c3902a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_485337ebb107bbaf7ac439abef8c6280cf808d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\9db7da5e91379437235baaa58187d5a4617f279c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_c9519fcc70c287bfeee23a21c97be946da1f8e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\bb5dae02afb0e4115f75fce3b0c04522e35b9576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_1075e294c7dad1f9816d9769b29231d777b2c232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\e99dfaa8edfcd63857a85d843dae7b3c1c38cf69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b443d109d39a38efeefe9231563e4d74e0b5a806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\14f146ca72eae22f5856f47b69a4db5829021387\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b947b2f500c9b793333af726ef559d0973ae770f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\84d0c7cdb9f6bb4476a897d58bb6545c56675f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_a0fd32dbe5746477a46d982c89d54d2d55ee9576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\25aa2de0664069fc6fbe6be08cd4374af92c12df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b5511079fb019c5649911be8f0a767b8e26ae898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\5894be32395d846c8fdc8076919d38b145a8fb5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_43ce2c54c61f13e0e9574dc5c4017ab0197156d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\543c36315c7a1411d9cc1f65b780706d554861ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_e8a507852746c2e334f997fcf0188702c74456c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\478e5025909c832b8463e4f483dc1923b9de0631\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_efc7f2cb2062c2af3126aba442d63265b3e037df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SecondSessionPOI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5441d723e5b1941ecb59065a9db629c6f66e403d">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d6bdaebcae868837ff6d8ca248266ad4e8a7f5d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\03daf26284fedf3fdf9cccc93cea689a59ab8ca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_c44215f6e84f136b6b7f68686ad1bf5e9e4bd0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\ba65e0f51a1c4d058d0b5b9d25604b33718ee8a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_cda9a171b7ac3a70ac07eb992f6cc1a822338e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\7ddc370cb7abcf260d95a15b057e62d967fc8edc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_7cdd58fae48fe6ef75a587c294e8b9cffbe0710c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\4443dc1d008d5ce48989f7d669b3f3f374ce99e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_4bba4158891f6967c6f432577d761872cf27e99e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_c2aa4136f0a12783adaa9c91fc0dffbe06daef4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\a54db46fd9a5295dd262cad7e4979e0376de8fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_95f27ef5957f5bcefdf94746574039f9b2327115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\5fe02c49982e9b00224c9364cf892603f34e7785\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_4b0be22d21676c607e53ccb3581ba6c8c071a0f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_9bac61327dc61aa6ce90423e8bd715dd951e34ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_caa1f03dc15f2de8f6a15211e0157f6e9d4595b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\203c64c027bd945e5854da1a8284f1c19533699b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_781daec966a40523562a9bfe50807718d4ef1206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\f2a5aa1784bfbf88a01c0d2aa3fd242a8b5df788\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b1a93c5bc58138373115db6ce9dc19ebffec46ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\62cf860a3d25cfc751e4da48c6f2bc0852a47bc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_69bd99038225883939c1ceddb61e2a1ea0392e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\3fa922d874662dee9934ef75ab354a4c82e2d778\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_93cf2c237debf3d60a03c1007ca94c14e8c9f61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\176d4bc83932781825d33d7e923c59ecee3381df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_ba620072ae0ee39b49373588b268a793870eaa5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\bdb5ca66f48a5abb9235964d58292c61c08b5dd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b26270adb4ea5ae6536043e9f19480d7bcac5990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\38a971d39a96f38e00141a2b32809b385280635c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_f024159faa011697e7b1bc6e6cfb1cd3c1193829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\1bb10c17d17c2fcdbeca33bb205302c7c4102574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_be7b0618846e073761b85c20eab15cceea5cb08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\5aceaa328336d995f39ae4633413ca41bc4cda0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_e9efb7a1d02077725276d87895383da4c0088dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\6d0a9736bac7eac89807007ea70746b9e82ad443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_65664dbdd9001a89fe0c61ecfb720346d17dacab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\36548dac950b03ddf87f45663017e8cc386e0a85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_ed3693296d50c1df81a3efd94e9536f15d7d4546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\f23e2e81f983803d96eb45521b02ddb852bb13e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_c51c5bca8e61dd7f746e4a28313953342481e061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\dd9274baffde83ceb693139359f3125b390f047d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_5cfaff10c63b9fd23193ad8ed14ef16ac95d5f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\c1f9608cc1aec4d69fff8efbd86df2fcd7b9b0d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_a630f81e113519b3b5a94c0f7d6a775c367b1503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\32423e59b7fd86f2f97d88bce3887dab1dc3440e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_b8362a3808a12e90729c0c1bc24efe4a0f962394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\fe0c8e84656f70453589ce0ce1c11ceb25e10cde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_0d6930e0d7798ef224b78c4d2496f9aeb75d93a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_af56e448fd55c95d72e19f1c18b2fb7175e00ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\26f5b354ef7c228fc6165c3dae0018778c84fe82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_263639c645a9eae1bc83a880f64d37c6e4b3c806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\5d4b2e5ec2653c75310a3da2035fa43947c65b88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_731e46b9f4056875f71ca04886b0c1f7941c1ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\2ef43f02be1c0299a7d045d392b72d0f5099eb00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_edbc83a844a5b21ec8855bcf8b43183751f0b142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\gson-2.7_821a9f7cdae87d483eeb1a457e96ef4c1ab29bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\f2ff7faa57dfb9823b27d906f84ab6ed305a51c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_6e446708fa95ee7360f8193d3c4fef34461709dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\aff7f810b46c9a7878a1d0f4a477f4f8b3896dee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_8c992ddb8b6c71069765930d410b52b797d5e6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\a8d252b646341d873e87885f97c3527f170700c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_2303b3725328435d6ecf2b5f31488a0b49addd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\71212852a98dc31c6a3531f48bcabc4adf21cdb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_beeae12eb41009deddca037ab1a00ec4bdfe09b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\b5e4176ad496affa92c6cd7173d87dafc89fec53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_ed18754590f48b9833f810b5eeec8f49bb38b708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\ff5ad95f1f0399c15bbe8c791af426b1260fb707\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_f0f881ef892280e3763f1cf029d466439ecaf69c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SecondSessionPOI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_315fd3b8fca316ca39e2fb31e8ea45c9ec924b83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\abfad7cdf5e28f70248462220007af5af4dea5b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_c0a55aeb5626161830397dda904d410c2ee6ee4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\ab45fbec724c4530b4f13e72dc20dc9515e3ff65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_8ffbb3d2d18965fc198eee83871aca8d5609004a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\26183ee03aa33163e2be9592e29d4717d05e0067\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_e1ab383c273ad754e000a3f06e61135e6f56bf95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\a75f555456cba8fbf72bc30190bb3cb44747d94b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_07dc59327a6c788e5ba051488cbe5c04787493cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\cccf8c1ac7a03381addef8ff801d06c25e1ee986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_5d0fe579270a8af4a34b4031218c8fb31b2a9adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\bd72dbf1f97402f5b0e9012f5c0c109fa233d118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_baa319fa23b26a701d5995152ccb7e0fc0b3138e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\71212852a98dc31c6a3531f48bcabc4adf21cdb4\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_91b6c2c674deeb6910ba844baf98dad0b35fed8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3b295cc7be726d43556cc15fb6f124fd90e7a320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\okio-1.9.0_2c3b27bba4af77f321358d23790c6e4bc6dd3271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\2de8b4cad8b1f25c80d82c666f355905fc4131f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_5a33e45ceb57f44e810e771f96f6b321864fda63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\562d30381592c6ef13ae57d168e1b338e5250188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_3c0e3594d547e43f5d53e5ba6f868bcb79738a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\da178461a2dabd1cc95d4f987822a365bfdca54d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_8d1248b68995731dbccdce901c2d9b2a1dd78c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\55219d3890704c874292826bc168e2f82f3d0883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_f5a7216eb07caf04aa510de3e80ad6febd7e0533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\d4a113aeb47846c98e9bc7957b6c8b87bed3c222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_5889d3fbfc4be39fdae9b2ffdc0953a5623fd35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\9ec6e496ee75be9d1c1c356ef95315996d2f19e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_cda2b19b84d52d339ad00f30faaab09f2883e35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\cbf0fa396912502fa010748880dd09e9ae0e78a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_9266bf1aa59d4d4c6cd6f5869f2ce5939d77f8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\87be060f065320b122f6b4cd7f7274f0f59dc999\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_56bde1c1850a5593ff898d18f1140c12da34509a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\4d5a9d7dbc489bfe2596d1fd8b0cabf5fcf8531d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_9841a21b5c79efcee92fa089c105dcd05b3a9101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\d4aaad48174e67aa0276adc0dccfb56c44a33cb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_125126d9f503b6a9c695ed80ecd8e41e738e77f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\8b474a5948d9d3c0ee61bc40869ec767d0de86d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_ef4edddbaba2f2f9dff4e7f1f4d3606134f50600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\df15e749fa27be141b5d8bf73c7b4cfeb67f43e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_91bff027c84ce0b1d3ae473a8735c494dab19d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\d85d8134f2fd0934404764f3254411109c219782\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_1d7b8c57e1d4f9b9606063ab41b1acfd958929ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\5029e69f2f6fb4a8dece223d47006bfc639280c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_049ce519a92f29a5da4c929c527f44508fbe3bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\33e9af453e0013a12977f73f82b9ec0a5bc9f2f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_944417f3e4035bc83e42a8a2c21d6ed80983f903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\7a3dcc22cd23a9bd5f7a95385cb1dae260ba580e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_4eed36625c72118cfe671a839f103dc6ba0ce3c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC-Wanidol\.android\build-cache\b678aa28ee756913c6b8cbbce08816e6f8ac1965\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\SecondSessionPOI\app\build\intermediates\pre-dexed\debug\classes_3b2a3347c8b87c642500282ca2f158ac7a515c21.jar" />
+    </item>
+
+</items>
